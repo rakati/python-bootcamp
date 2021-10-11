@@ -9,8 +9,7 @@ Instructors:
 
 ## LISTE OF CONTENTS:
 1. [ Bootcamp overview. ](#overview)
-2. [ Tools used in the bootcamp.](#tools)
-3. [ Preparing envirement.](#env)
+
 
 <a name="overview"></a>
 ## Bootcamp overview
@@ -60,10 +59,3 @@ This bootcamp will cover a series of handsons on python language from zero to he
 
   - 1D Finite difference disrectization (2D ?)
  
- <a name="tools"></a>
- ## Tools used in this bootcamp
- ...
- 
- <a name="env"></a>
- ## Preparing envirement
- ...
